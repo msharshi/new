@@ -2,7 +2,7 @@
 
 biggest3()
 {
-    int c = 20, b = 50, a = 2000;
+    int c = 20, b = 50, a = 1000;
 
     // Finding largest by comparing using relational operators
     if (a >= b) {
